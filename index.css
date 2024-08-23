@@ -1,0 +1,50 @@
+body{
+    padding: 100px;
+}
+
+
+.Submit-Area h4{
+    font-size: 30px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.Submit-Area{
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    padding: 50px;
+}
+
+#Transection-Area{
+    display: none;
+}
+#Transection-Area{
+    margin-top: 100px;
+}
+.status{
+    margin: 0 20px;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+.Transection-Area-Text{
+    margin-bottom: 50px;
+}
+
+.Deposit{
+    background-color: slateblue;
+}
+.Withdraw{
+    background-color: lightsalmon;
+}
+.Blance{
+    background-color: orange;
+}
+
+.Transection-Area-Form{
+    margin-top: 50px;
+}
+.Form-Shadow{
+    box-shadow: 5px 5px 10px gray;
+    padding: 30px;
+}
