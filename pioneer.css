@@ -1,0 +1,75 @@
+body{
+    padding: 100px;
+}
+#LogInForm{
+    box-shadow: 5px 5px 10px gray;
+    padding: 50px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.Main-header{
+    font-weight: 500;
+    background-color: black;
+    color: white;
+    display: inline-block;
+    padding: 20px 30px;
+    border-radius: 20px;
+}
+.Main-header:hover{
+    color: blue;
+    transition: .7s;
+}
+.header{
+    text-align: center;
+}
+#LogInForm h3{
+    font-weight: bold;
+}
+
+/*     Trasactiom Area Section */
+
+.first-content{
+    background-color: slateblue ;
+}
+.first-content:hover{
+    background-color: rgb(209, 179, 179);
+    color: #2013cf;
+    transition: .6s;
+}
+.second-content{
+    background-color: lightsalmon;
+}
+.second-content:hover{
+    background-color: blanchedalmond;
+    color: orangered;
+    transition: .6s;
+}
+.third-content{
+    background-color: orange;
+}
+.third-content:hover{
+    background-color: burlywood;
+    color: aqua;
+    transition: .6s;
+}
+.status{
+    color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+#TransactionArea{
+    margin-top: 100px;
+    display: none;
+}
+.transection-section{
+    margin-top: 50px;
+}
+.status-section{
+    margin-bottom: 50px;
+}
+.Shadow{
+    box-shadow: 5px 5px 15px gray;
+    padding: 30px;
+    border-radius: 10px;
+}
